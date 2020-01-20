@@ -1,5 +1,6 @@
 # TableViewCellDelete
 自定义侧滑删除cell
+如果你喜欢的话，给右上角的☆点一下，谢谢！！！
 
 
 
