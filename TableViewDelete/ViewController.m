@@ -38,7 +38,7 @@
 -(NSMutableArray<NSString *> *)sourceArray{
     if (!_sourceArray) {
         _sourceArray = [NSMutableArray array];
-        for (int a = 0; a<20; a++) {
+        for (int a = 0; a<8; a++) {
             [_sourceArray addObject:[NSString stringWithFormat:@"我是第----%d个----fc",a]];
         }
     }
